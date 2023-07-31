@@ -69,6 +69,8 @@ The scorecard and overs are updated dynamically based on the runs scored. The se
 - HTML
 - CSS
 - JavaScript
+- Jquery
+- Bootstrap
 
 ## Links
 - [Live Demo](https://2021ipl.netlify.app/)
